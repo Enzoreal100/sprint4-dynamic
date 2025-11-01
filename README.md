@@ -2,10 +2,15 @@
 
 ## Integrantes:
 Danilo Wendler - RM 556602
+
 Enzo Gaião Real - RM557943
+
 Guilherme Cezarino - RM557724
+
 Pedro Henrique Müzel - RM555983 
+
 Vitor Ismael - RM556027
+
 
 ## Contextualização do Problema
 
