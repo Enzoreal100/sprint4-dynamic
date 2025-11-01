@@ -1,5 +1,12 @@
 # Projeto de Otimização de Estoque com PD
 
+## Integrantes:
+Danilo Wendler - RM 556602
+Enzo Gaião Real - RM557943
+Guilherme Cezarino - RM557724
+Pedro Henrique Müzel - RM555983 
+Vitor Ismael - RM556027
+
 ## Contextualização do Problema
 
 O gerenciamento de estoque é um desafio crítico para muitas empresas. Um controle ineficiente pode levar a dois problemas principais: excesso de estoque, que gera altos custos de manutenção, e falta de estoque, que resulta em perda de vendas e clientes insfeitos. Este projeto aborda esse desafio através de uma solução de otimização.
